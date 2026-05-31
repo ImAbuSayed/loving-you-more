@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/loving-you-more/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Loving You More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-you-more/) |
+| **Get License** | [Music Rights & Licensing for Loving You More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-you-more/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2498)
 
 ---
 
