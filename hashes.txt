@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Loving You More
+
+This log tracks the cryptographic history and versioning for the song **Loving You More** (loving-you-more).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-01T03:16:17.441507 | `v1` | `803062a258f23247aa905b08e7269de0a9b2c30cb4a7de34bf5e7673becbdbc6` | `adc688dafafbadefde68f5bbb09d06a851c17b1528139809bc00b764a14200a2` | `2026-06-01_loving-you-more-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

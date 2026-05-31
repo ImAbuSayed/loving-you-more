@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/loving-you-more/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Loving You More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-you-more/) |
+| **Get License** | [License this song: Loving You More](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-you-more/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the hardwood floor
+> I never knew what I was waiting for
+> Every time you look at me like that
+> I end up loving you more and more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `803062a258f23247aa905b08e7269de0a9b2c30cb4a7de34bf5e7673becbdbc6` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
